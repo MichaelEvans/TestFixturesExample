@@ -1,0 +1,1 @@
+Sample repository demonstrating the use of the `java-test-fixtures` plugin from Gradle 5.6.

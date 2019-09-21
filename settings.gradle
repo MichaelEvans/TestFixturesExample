@@ -1,0 +1,4 @@
+rootProject.name = 'TestFixturesExample'
+include 'javamodule'
+include 'kotlinmodule'
+include 'app'
